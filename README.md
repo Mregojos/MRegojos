@@ -2,7 +2,6 @@
 
 - I'm currently working on my protfolio (Data/Cloud/DevOps/ML Projects)
 - I'm learning the modern data stack, cloud infrastructures, data processing, DevOps, and machine learning systems. (I know it's a lot by they are connected to each other.)
-
 - Fun fact: I love Canada, Technology, and learning.
 
 <!--
