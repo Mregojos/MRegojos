@@ -1,4 +1,4 @@
-### Hi there
+### About me
 
 - I'm currently working on my protfolio (Data/Cloud/DevOps/ML Projects)
 - I'm learning the modern data stack, cloud infrastructures, data processing, DevOps, and machine learning systems.
