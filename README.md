@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - I'm currently working on my protfolio (Data/Cloud/DevOps/ML Projects)
+- I'm learning the modern data stack, cloud infrastructures, data processing, DevOps, and machine learning systems.
+- Fun fact: I love Canada, Technology, and learning.
 
 <!--
 **Mregojos/MRegojos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
