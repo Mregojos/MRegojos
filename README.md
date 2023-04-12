@@ -1,7 +1,7 @@
 ### About me
 
-- I'm currently working on my protfolio (Data/Cloud/DevOps/ML Projects)
-- I'm learning the modern data stack, cloud infrastructures, data processing, DevOps, and machine learning systems. (I know it's a lot, but they are all connected.)
+- I'm currently working on my portfolio (Data/Cloud/DevOps/ML Projects)
+- I'm focusing on learning the modern data stack, cloud infrastructures, data processing, DevOps, and machine learning systems. (I know it's a lot, but they are all connected and complement each other.)
 - I'm organizing my projects and migrating them here on GitHub.
 - Fun fact: I love Canada, Technology, and learning.
 
