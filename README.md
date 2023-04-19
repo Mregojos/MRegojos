@@ -1,9 +1,11 @@
 ### About me
 
-- I'm currently working on my portfolio (Data/Cloud/DevOps/ML Projects)
-- I'm focusing on learning the modern data stack, cloud infrastructures, data processing, DevOps, and machine learning systems. (I know it's a lot, but they are all connected and complement each other.)
-- I'm organizing my projects and migrating them here on GitHub.
+- I am currently working on my portfolio.
+- My interests and focus is on learning Modern Data Stacks, Cloud Infrastructures, Data Processing, CI/CD Pipelines, and Machine Learning Systems.
+- I am organizing my projects and migrating them to GitHub.
 - Fun fact: I love Canada, Technology, and learning.
+
+Data | ML | Cloud | DevOps
 
 <!--
 **Mregojos/MRegojos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
