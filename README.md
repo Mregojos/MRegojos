@@ -1,8 +1,7 @@
 ### About me
 
-- I am currently working on my portfolio.
+- I am currently working on my portfolio, organizing it, and migrating them to GitHub.
 - My interests and focus is on learning and building Modern Data Stacks, Cloud Infrastructures, Data Processing, CI/CD Pipelines, and Machine Learning Systems.
-- I am organizing my projects and migrating them to GitHub.
 - Fun fact: I love Canada, Technology, and Learning.
 
 > **Data | ML | Cloud | DevOps**
