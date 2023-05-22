@@ -1,10 +1,10 @@
 ### About me
 
 - I am currently working on my portfolio, organizing and migrating them to GitHub.
-- My interests and focus areas are learning and building modern data stacks, cloud infrastructures, data processing, CI/CD pipelines, and machine learning systems.
+- My interests and focus areas are learning and building modern data stacks, cloud infrastructure, data processing, CI/CD pipelines, and machine learning systems.
 - Fun fact: I love Canada, technology, and learning.
 
-> **Data | ML | Cloud | DevOps**
+> **Data | ML | Cloud | DevOps | SRE**
 
 <!--
 **Mregojos/MRegojos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
