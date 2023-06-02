@@ -6,7 +6,7 @@
 
 ✨ Fun fact: I love Canada, technology, and learning.
 
-> **Data | Machine Learning | Cloud | DevOps | SRE**
+> **Data | Machine Learning | Cloud | DevOps | Site Reliability Engineering**
 
 
 <!--
