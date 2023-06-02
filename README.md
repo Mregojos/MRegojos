@@ -4,10 +4,8 @@
 - My interests and focus areas are learning and building modern data stacks, cloud infrastructure, data processing, CI/CD pipelines, and machine learning systems.
 - Fun fact: I love Canada, technology, and learning.
 
-> **Data | ML | Cloud | DevOps | SRE**
+> **Data | Machine Learning | Cloud | DevOps | SRE**
 
-> Tech Stack (Learning/Developing):
-| Cloud Provider: Google Cloud and AWS
 
 <!--
 **Mregojos/MRegojos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
