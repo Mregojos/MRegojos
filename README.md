@@ -1,8 +1,8 @@
-### About me
+### About me 😄
 
-- I am currently working on my portfolio, organizing and migrating them to GitHub.
-- My interests and focus areas are learning and building modern data stacks, cloud infrastructure, data processing, CI/CD pipelines, and machine learning systems.
-- Fun fact: I love Canada, technology, and learning.
+✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
+✨ My interests and focus areas are learning and building modern data stacks, cloud infrastructure, data processing, CI/CD pipelines, and machine learning systems.
+✨ Fun fact: I love Canada, technology, and learning.
 
 > **Data | Machine Learning | Cloud | DevOps | SRE**
 
