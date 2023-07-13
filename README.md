@@ -1,4 +1,5 @@
 ## About me 😄
+✨ My name is Matt and I am an engineer. I graduated with a degree in Electrtonics Engineering and now I am fully focused on Technology. I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
@@ -17,7 +18,10 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 * [Container Monitoring and Observability](https://github.com/Mregojos/Monitoring-and-Observability)
 
 ### Data Engineering Projects
-* 
+* [Batch Data Processing with Orchestration](https://github.com/Mregojos/Batch-Data-Processing)
+* [Data Analysis Web App: Canada TFWP's LMIA Employers list of 2022](https://github.com/Mregojos/Data-Analysis-App)
+* [Data Integration and Orchestration](https://github.com/Mregojos/Data-Integration)
+* [Streaming Data Processing]
 
 ### Machine Learning Projects
 * 
@@ -30,7 +34,9 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 ## My Blog
 * [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
 
-
+## Cloud Certifications
+* Google Cloud Certified Professional Machine Learning Engineer
+* AWS Certified Solutions Architect - Associate
 
 
 
