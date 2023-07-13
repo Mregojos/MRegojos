@@ -21,13 +21,16 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 * [Batch Data Processing with Orchestration](https://github.com/Mregojos/Batch-Data-Processing)
 * [Data Analysis Web App: Canada TFWP's LMIA Employers list of 2022](https://github.com/Mregojos/Data-Analysis-App)
 * [Data Integration and Orchestration](https://github.com/Mregojos/Data-Integration)
-* [Streaming Data Processing]
+* Streaming Data Processing
 
 ### Machine Learning Projects
 * 
 
 ### Capstone Projects
-*
+* [AWS Cloud Solutions Architect Projects](https://github.com/Mregojos/AWS-Cloud-Solutions-Architect)
+* [Google Project Management Artifacts](https://github.com/Mregojos/Project-Management-Artifacts)
+* [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
+* Google IT Automation with Python Coursework
 
 ### GCP Projects (Soon!!!!)
 
