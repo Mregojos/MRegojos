@@ -26,7 +26,9 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 * Streaming Data Processing
 
 ### Machine Learning Projects
-* 
+* [Testosterone Deficiency Prediction (Structured Imbalanced Dataset Classification Project)](https://github.com/Mregojos/TDC-Project)
+* [FRIENDS: The one with ML (Basic NLP Projet)](https://github.com/Mregojos/FTOWML-Project)
+* Basic Electronic Components Image Classification (Computer Vision Project)
 
 ### Capstone Projects
 * [AWS Cloud Solutions Architect Projects](https://github.com/Mregojos/AWS-Cloud-Solutions-Architect)
