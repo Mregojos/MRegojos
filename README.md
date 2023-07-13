@@ -1,11 +1,13 @@
 ## About me 😄
-✨ My name is Matt and I am an engineer. I graduated with a degree in Electronics Engineering and now I am fully focused on Technology. I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
+✨ Hi there. My name is Matt and I am an engineer. I graduated with a degree in Electronics Engineering and now I am fully focused on Technology. I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
 ✨ My interests and focus areas are learning and building modern data stacks, cloud infrastructure, data processing, CI/CD pipelines, machine learning systems, and security protection.
 
 ✨ Fun fact: I love Canada, technology, and learning.
+
+✨ My happy places: Being with my family, learning everything, watching my favorite shows like FRIENDS, One Piece, Detective Conan, and watching walking and driving tour around Canada and the world.  
 
 My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 
