@@ -11,7 +11,10 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 ## My Project Collections
 
 ### Cloud and DevOps Projects
-* [CI/CD]()
+* [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
+* [Automating the Provisioning of Cloud Infrastructures using IaC and AWS Cloud Services](https://github.com/Mregojos/Cloud-Infrastructures)
+* [CI/CD Pipeline with GitOps (GitHub Actions and ArgoCD)](https://github.com/Mregojos/CI-CD-with-GitOps)
+* [Container Monitoring and Observability](https://github.com/Mregojos/Monitoring-and-Observability)
 
 ### Data Engineering Projects
 * 
@@ -24,7 +27,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 
 ### GCP Projects (Soon!!!!)
 
-### My Blog
+## My Blog
 * [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
 
 
