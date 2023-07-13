@@ -24,6 +24,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 
 ### GCP Projects (Soon!!!!)
 
+
 ### My Learning Roadmap
 * [Roadmap](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
 
