@@ -24,11 +24,11 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 
 ### GCP Projects (Soon!!!!)
 
-### My Blogs (Soon!!!!)
+### My Blog
+* [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
 
 
-### My Learning Roadmap
-* [Roadmap](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
+
 
 
 <!--
