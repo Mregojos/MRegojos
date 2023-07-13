@@ -1,4 +1,4 @@
-### About me 😄
+## About me 😄
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
@@ -6,7 +6,23 @@
 
 ✨ Fun fact: I love Canada, technology, and learning.
 
-> **Data | AI/ML | Cloud | DevOps | SRE**
+My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
+
+## My Project Collections
+
+### Cloud and DevOps Projects
+* [CI/CD]()
+
+### Data Engineering Projects
+* 
+
+### Machine Learning Projects
+
+### Capstone Projects
+
+
+### My Learning Roadmap
+* [Roadmap for 
 
 
 <!--
