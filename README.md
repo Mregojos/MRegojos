@@ -1,5 +1,5 @@
 ## About me 😄
-✨ Hi, there. My name is Matt and I am an engineer. I have a degree in Electronics Engineering and now I am fully committed on Technology. I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
+✨ Hi, there. My name is Matt and I am an engineer. I have a degree in Electronics Engineering and now I am fully focused on Technology. I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
