@@ -1,15 +1,21 @@
 ## About me 😄
-✨ Hi, there. My name is Matt and I am an engineer. I have a degree in Electronics Engineering and now I am fully focused on Technology. I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
+✨ Hi, there. I'm Matt. I have a degree in Electronics Engineering. Currently, I am fully focused on Technology. 
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
-✨ My interests and focus areas are learning and building modern data stacks, cloud infrastructure, data processing, CI/CD pipelines, machine learning systems, and security protection.
+✨ I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
+
+✨ My interests and focus areas are learning and building cloud infrastructure, modern data stacks, data processing, CI/CD pipelines, machine learning systems, and security protection.
 
 ✨ Fun fact: I love Canada, technology, and learning.
 
 ✨ My happy places: Being with my family, learning almost everything, watching my favorite shows like FRIENDS, One Piece, Detective Conan, and watching walking and driving tours around Canada and the world.  
 
+---
+
 My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
+
+---
 
 ## My Project Collections
 
@@ -36,7 +42,10 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 * [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
 * Google IT Automation with Python Coursework
 
-### GCP Projects (Soon!!!!)
+### GCP Projects 
+* [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
+* [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
+* [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
 
 ## My Blog
 * [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
