@@ -52,6 +52,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
 * [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
 * [Tech Stack for Cloud, DevOps, and SRE](https://github.com/Mregojos/tech-stack)
 
+---
 ## 💬 Cloud Certifications
 I am a Google Cloud and AWS Certified. ⚡
 * Google Cloud Certified Professional Machine Learning Engineer
