@@ -1,7 +1,7 @@
 ## About me 
 ✨ Hi, there. 👋
 
-✨ My name is :blue[Matt]. I am a Cloud Technology Enthusiast ☁️🧑‍💻.
+✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻.
 
 ✨ I have a background in Electronics Engineering. Currently, I am fully focused on Technology. 
 
