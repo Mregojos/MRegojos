@@ -1,13 +1,13 @@
-## About me 😄
-✨ Hi, there.
+## About me 
+✨ Hi, there. 👋
 
-✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻 .
+✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻.
 
-✨ I have a degree in Electronics Engineering. Currently, I am fully focused on Technology. 
+✨ I have a degree in Electronics Engineerin. Currently, I am fully focused on Technology. 
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
-✨ My interests and focus areas are learning and building cloud infrastructure, modern data stacks, data processing, CI/CD pipelines, and machine learning systems.
+✨ My interests and focus areas are learning and building Cloud Infrastructure, Data Pipelines, CI/CD pipelines, and Machine Learning Systems.
 
 ✨ I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
 
@@ -17,7 +17,7 @@
 
 ---
 
-My Interests > **Data | AI/ML | Cloud | DevOps | SRE | Cybersecurity**
+My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 
 ---
 
