@@ -1,13 +1,17 @@
 ## About me 😄
-✨ Hi, there. I'm Matt. I have a degree in Electronics Engineering. Currently, I am fully focused on Technology. 
+✨ Hi, there.
+
+✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻 .
+
+✨ I have a degree in Electronics Engineering. Currently, I am fully focused on Technology. 
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
+✨ My interests and focus areas are learning and building cloud infrastructure, modern data stacks, data processing, CI/CD pipelines, and machine learning systems.
+
 ✨ I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
 
-✨ My interests and focus areas are learning and building cloud infrastructure, modern data stacks, data processing, CI/CD pipelines, machine learning systems, and security protection.
-
-✨ Fun fact: I love Canada, technology, and learning.
+✨ Fun fact: I love Canada 🍁, technology, and learning.
 
 ✨ My happy places: Being with my family, learning almost everything, watching my favorite shows like FRIENDS, One Piece, Detective Conan, and watching walking and driving tours around Canada and the world.  
 
