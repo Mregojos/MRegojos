@@ -46,15 +46,17 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
 * Google IT Automation with Python Coursework
 
-### GCP Projects (On-going)
+### GCP Projects (Ongoing)
 * [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
 * [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
 * [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
 * [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
 
 ## Roadmap and Tutorials
-* [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
 * [Tech Stack for Cloud, DevOps, and SRE](https://github.com/Mregojos/tech-stack)
+* [Tech Stack for Data and ML Engineering](https://github.com/Mregojos/tech-stack-data-ml)
+* [My Learning Roadmap for Tech Enthusiast](https://github.com/mregojos/roadmap-data-ml-ai-cloud-devops-sre)
+
 
 ---
 ## 💬 Cloud Certifications
