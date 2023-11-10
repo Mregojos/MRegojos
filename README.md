@@ -66,9 +66,9 @@ I am a Google Cloud and AWS Certified. ⚡
 
 ---
 ## Portfolio Website (Ongoing)
-![Matt Cloud Tech](https://mattcloudtech.com)
-![Matt Cloud Tech Site](https://site.mattcloudtech.com)
-![Matt Cloud Tech Blog](https://blog.mattcloudtech.com)
+[Matt Cloud Tech](https://mattcloudtech.com)
+[Matt Cloud Tech Site](https://site.mattcloudtech.com)
+[Matt Cloud Tech Blog](https://blog.mattcloudtech.com)
 
 
 
