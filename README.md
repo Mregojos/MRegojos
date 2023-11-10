@@ -3,7 +3,7 @@
 
 ✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻.
 
-✨ I have a degree in Electronics Engineering. Currently, I am fully focused on Technology. 
+✨ I have a background in Electronics Engineering. Currently, I am fully focused on Technology. 
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
 
