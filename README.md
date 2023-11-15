@@ -1,5 +1,5 @@
 ## About me 
-✨ Hi, there. 👋
+✨ Hi there. 👋
 
 ✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻.
 
@@ -47,10 +47,12 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * Google IT Automation with Python Coursework
 
 ### GCP Projects (Ongoing)
-* [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
 * [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
-* [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
 * [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
+* [Pre-Trained Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
+* [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
+* [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
+
 
 ## Roadmap and Tutorials
 * [Tech Stack for Cloud, DevOps, and SRE](https://github.com/Mregojos/tech-stack)
@@ -65,10 +67,10 @@ I am a Google Cloud and AWS Certified. ⚡
 * AWS Certified Solutions Architect - Associate
 
 ---
-## Portfolio Website (Ongoing)
-[Matt Cloud Tech](https://mattcloudtech.com)
-[Matt Cloud Tech Site](https://site.mattcloudtech.com)
-[Matt Cloud Tech Blog](https://blog.mattcloudtech.com)
+## Portfolio Website (Ongoing, Building...)
+* [Matt Cloud Tech Site](https://site.mattcloudtech.com)
+* [Matt Cloud Tech](https://mattcloudtech.com)
+* [Matt Cloud Tech AI](https://ai.mattcloudtech.com)
 
 
 
