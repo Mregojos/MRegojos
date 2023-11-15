@@ -46,7 +46,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
 * Google IT Automation with Python Coursework
 
-### GCP Projects (Ongoing, Building...)
+### Google Cloud / GCP Projects (Ongoing, Building...)
 * [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
 * [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
 * [Pre-Trained Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
