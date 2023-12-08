@@ -23,6 +23,18 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 
 ## My Project Collections
 
+### Google Cloud / GCP Projects 
+* [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
+* [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
+* [Pre-Trained Language Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
+(Ongoing, Building...)
+* [GCP LLM Deployment](https://github.com/mregojos/GCP-LLM-Deployment)
+* [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
+* [GitOps on GCP](https://github.com/Mregojos/GitOps-on-GCP)
+* [Observability on GCP](https://github.com/Mregojos/Observabity-on-GCP)
+* [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
+* [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
+
 ### Cloud and DevOps Projects
 * [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
 * [Automating the Provisioning of Cloud Infrastructures using IaC and AWS Cloud Services](https://github.com/Mregojos/Cloud-Infrastructures)
@@ -46,14 +58,6 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Google Data Analytics Final Project](https://github.com/Mregojos/Data-Analytics-Final-Project)
 * Google IT Automation with Python Coursework
 
-### Google Cloud / GCP Projects (Ongoing, Building...)
-* [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
-* [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
-* [Pre-Trained Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
-* [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
-* [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
-
-
 ## Roadmap and Tutorials
 * [Tech Stack for Cloud, DevOps, and SRE](https://github.com/Mregojos/tech-stack)
 * [Tech Stack for Data and ML Engineering](https://github.com/Mregojos/tech-stack-data-ml)
@@ -68,9 +72,8 @@ I am a Google Cloud and AWS Certified. ⚡
 
 ---
 ## Portfolio Website (Ongoing, Building...)
-* [Matt Cloud Tech Site](https://site.mattcloudtech.com)
 * [Matt Cloud Tech](https://mattcloudtech.com)
-* [Matt Cloud Tech AI](https://ai.mattcloudtech.com)
+* [Matt Cloud Tech Agent](https://mattcloudtech.com/Agent)
 
 
 
