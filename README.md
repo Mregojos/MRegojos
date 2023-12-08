@@ -5,22 +5,18 @@
 
 ✨ I have a background in Electronics Engineering. Currently, I am fully focused on Technology. 
 
-✨ I am currently working on my portfolio, organizing and migrating them to GitHub.
-
 ✨ My interests and focus areas are learning and building Cloud Infrastructure, Data Pipelines, CI/CD pipelines, and Machine Learning Systems.
-
-✨ I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
-
-✨ Fun fact: I love Canada 🍁, technology, and learning.
-
-✨ My happy places: Being with my family, learning almost everything, watching my favorite shows like FRIENDS, One Piece, Detective Conan, and watching walking and driving tours around Canada and the world.  
 
 ---
 
 My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 
 ---
+## Portfolio Website
+* [Matt Cloud Tech](https://mattcloudtech.com)
+* [Matt Cloud Tech Agent](https://mattcloudtech.com/Agent)
 
+---
 ## My Project Collection
 
 ### Google Cloud / GCP Projects 
@@ -35,6 +31,8 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Observability on GCP](https://github.com/Mregojos/Observabity-on-GCP)
 * [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
 * [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
+
+
 
 ### Cloud and DevOps Projects
 * [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
@@ -71,9 +69,16 @@ I am a Google Cloud and AWS Certified. ⚡
 * AWS Certified Solutions Architect - Associate
 
 ---
-## Portfolio Website (Ongoing, Building...)
-* [Matt Cloud Tech](https://mattcloudtech.com)
-* [Matt Cloud Tech Agent](https://mattcloudtech.com/Agent)
+
+More About Me:
+✨ Fun fact: I love Canada 🍁, technology, and learning.
+
+✨ I am currently working on my portfolio, organizing and migrating them to GitHub. 
+
+✨ I love learning different things and want to learn more about the world and the universe and beyond. My MBTI is INTP.
+
+✨ My happy places: Being with my family, learning almost everything, watching my favorite shows like FRIENDS, One Piece, Detective Conan, and watching walking and driving tours around Canada and the world.  
+
 
 
 
