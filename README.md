@@ -27,7 +27,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
 * [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
 * [Pre-Trained Language Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
-(Ongoing, Building...)
+   (Ongoing, Building...)
 * [GCP LLM Deployment](https://github.com/mregojos/GCP-LLM-Deployment)
 * [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
 * [GitOps on GCP](https://github.com/Mregojos/GitOps-on-GCP)
