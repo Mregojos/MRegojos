@@ -71,6 +71,7 @@ I am a Google Cloud and AWS Certified. ⚡
 ---
 
 More About Me:
+
 ✨ Fun fact: I love Canada 🍁, technology, and learning.
 
 ✨ I am currently working on my portfolio, organizing and migrating them to GitHub. 
