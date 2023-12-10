@@ -5,7 +5,7 @@
 
 ✨ I have a background in Electronics Engineering. Currently, I am fully focused on Cloud Technology. 
 
-✨ My interests and focus areas are learning and building Cloud Infrastructure, Data Pipelines, CI/CD pipelines, and Intellignet Systems.
+✨ My interests and focus areas are learning and building Cloud Infrastructure, Data Pipelines, CI/CD pipelines, and Intelligent Systems.
 
 ---
 
