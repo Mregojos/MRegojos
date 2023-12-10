@@ -3,7 +3,7 @@
 
 ✨ My name is Matt. I am a Cloud Technology Enthusiast ☁️🧑‍💻.
 
-✨ I have a background in Electronics Engineering. Currently, I am fully focused on Technology. 
+✨ I have a background in Electronics Engineering. Currently, I am fully focused on Cloud Technology. 
 
 ✨ My interests and focus areas are learning and building Cloud Infrastructure, Data Pipelines, CI/CD pipelines, and Machine Learning Systems.
 
