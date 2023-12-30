@@ -26,7 +26,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Pre-Trained Large Language Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
 * [GitOps on GCP](https://github.com/Mregojos/GitOps-on-GCP)
 * [Observability on GCP](https://github.com/Mregojos/Observability-on-GCP)
-  - (Ongoing...)
+  - (In progress...)
 * [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
 * [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
 * [Data Pipelines on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
