@@ -27,9 +27,9 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [Observability on GCP](https://github.com/Mregojos/Observability-on-GCP)
 * [Site Deployment on GCP](https://github.com/Mregojos/model-deployment)
   - (In progress...)
-* [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
-* [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
-* [Data Pipelines on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
+  * [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
+  * [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
+  * [Data Pipelines on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
 
 ### Cloud and DevOps Projects
 * [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
