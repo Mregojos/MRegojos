@@ -29,7 +29,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
   - (Ongoing...)
 * [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
 * [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
-* [Data Pipelins on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
+* [Data Pipelines on GCP](https://github.com/Mregojos/Data-Pipeline-GCP)
 
 ### Cloud and DevOps Projects
 * [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
