@@ -25,7 +25,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 * [GCP Multimodal Model Deployment](https://github.com/mregojos/GCP-LLM-Deployment)
 * [GitOps on GCP](https://github.com/Mregojos/GitOps-on-GCP)
 * [Observability on GCP](https://github.com/Mregojos/Observability-on-GCP)
-* [Site Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
+* [Model Deployment (Web App) on GCP](https://github.com/Mregojos/model-deployment)
 
 ### Cloud and DevOps Projects
 * [CI/CD with AWS Cloud Services](https://github.com/Mregojos/CI-CD-with-Cloud-Services)
