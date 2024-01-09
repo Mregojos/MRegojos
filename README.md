@@ -9,7 +9,7 @@
 
 ---
 
-My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
+Highly interested in **Data | AI/ML | Cloud | DevOps | SRE**
 
 ---
 ## Portfolio Website
