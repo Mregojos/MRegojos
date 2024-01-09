@@ -19,7 +19,7 @@ My Interests > **Data | AI/ML | Cloud | DevOps | SRE**
 ---
 ## My Project Collection
 
-### Google Cloud / GCP Projects 
+### [Google Cloud / GCP Projects](https://github.com/mregojos/GCP-Projects) 
 * [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
 * [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
 * [GCP Multimodal Model Deployment](https://github.com/mregojos/GCP-LLM-Deployment)
